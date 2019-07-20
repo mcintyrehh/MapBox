@@ -17,6 +17,7 @@ body {
   }
   .holder {
     height: 500px;
+    display: flex; 
   }
   .map {
     width: 66%;
